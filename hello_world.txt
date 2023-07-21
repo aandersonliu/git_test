@@ -1,1 +1,2 @@
 # adding text to hello world..
+# second line of text to test git commit without "--m"
